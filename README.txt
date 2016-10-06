@@ -1,0 +1,1 @@
+Dies ist mein erstes Git Projekt.
